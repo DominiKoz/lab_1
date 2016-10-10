@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
 def hello():
-	print ("Hello world!")
+	print ("Hello world from GitHub!")
 
 hello()
